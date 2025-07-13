@@ -8,4 +8,4 @@ Exploratory data analysis was done using Matplotlib and Seaborn graph visualizat
 
 Models were run on train-test splits with cross-validation done using GridSearch to optimize paramters. then 4 models were trained on the data: Logistic Regression, Support Vecctor Machine (SVM), Decision Tree Classifier, and K-Nearest Neighbor Classifer (KNN). A confusion matrix was created for each to determine Type 1 and Type 2 error rates and performance was measured using Accuracy, Precision, Recall, and F1 Score
 
-The culmination of the findings are shown in the powerpoint presentation, I would recommend going there for findings
+The culmination of the findings are shown in the powerpoint presentation (the pdf), I would recommend going there for findings
