@@ -323,7 +323,6 @@ jupyter notebook
 ## 👤 Author
 
 **Brent Smith**
-- Email: brents434@gmail.com
 - LinkedIn: [linkedin.com/in/brent-smith-4d](https://linkedin.com/in/brent-smith-4d)
 - GitHub: [@brent-smith-4](https://github.com/brent-smith-4)
 
